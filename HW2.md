@@ -36,4 +36,4 @@ invisibility 不可视性
     每个人的任务是1-2项
 
     至少包含一个团队活动任务
-  ![kanban](Kanban.PNG)
+  ![kanban](kanban.PNG)
