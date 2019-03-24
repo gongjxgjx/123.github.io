@@ -39,4 +39,4 @@ invisibility 不可视性
   ![kanban](kanban.PNG)
   
   UML绘图工具练习
-  ![DICE](DICE.PNG)
+![DICE](DICE.PNG)
