@@ -92,12 +92,14 @@ Ans:
 
 `携程`：
 ![HotelReservationSystem](HotelReservationSystem.png)
+
 `淘票票`：
+![MovieTicketPurchaseSystem](MovieTicketPurchaseSystem.png)
 
 1.为什么相似系统的用例图是相似的？
 
-Ans:因为相似的系统业务目标是相似的，对应的用例场景相似，所以用例图也是相似的
-
+Ans:
+因为相似的系统业务目标是相似的，对应的用例场景相似，所以用例图也是相似的
 
 2.如果是定旅馆业务，请对比 Asg_RH 用例图，简述如何利用不同时代、不同地区产品的用例图，展现、突出创新业务和技术
 
@@ -117,4 +119,3 @@ Ans：
 4.请使用 SCRUM 方法，选择一个用例图，编制某定旅馆开发的需求（backlog）开发计划表
 Ans：
 
-5.根据任务4，参考 使用用例点估算软件成本，给出项目用例点的估算
