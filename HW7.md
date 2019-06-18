@@ -22,6 +22,6 @@
 1. 用正常色彩表示第一个业务流程反映的用例
 ![Swimlane1](Swimlane1.svg)
 2. 用绿色背景表述第二个业务场景添加或修改的用例，以及支持 Actor
-![](https://github.com/gongjxgjx/Software-System-Analysis-and-Design/blob/master/assets/usecase2.svg)
+![Swimlane2](Swimlane1.svg)
 3. 用黄色背景表述第三个业务场景添加或修改的用例，以及支持 Actor
-![](https://github.com/gongjxgjx/Software-System-Analysis-and-Design/blob/master/assets/usecase3.svg)
+![Swimlane3](Swimlane1.svg)
