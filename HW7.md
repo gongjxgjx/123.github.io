@@ -1,7 +1,7 @@
 # 用例建模 - 业务建模方法
 ## **1 根据订旅馆建模文档，**[Asg-RH.pdf](https://sysu-swsad.github.io/swad-guide/material/Asg_RH.pdf)
 * 绘制用例图模型（到子用例）
-![](https://github.com/gongjxgjx/123.github.io/blob/master/HotelReservationSystem.png)
+![ReserveHotel](ReserveHotel.svg)
 * 给出 make reservation 用例的活动图
 ![](https://github.com/gongjxgjx/123.github.io/blob/master/makeReservation.svg)
 ## **2 根据课程练习“投递员使用投递箱给收件人快递包裹”的业务场景**
