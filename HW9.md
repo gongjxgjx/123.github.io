@@ -11,7 +11,7 @@
  * * Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）
 
 **Make Reservation**
-![](https://github.com/gongjxgjx/Software-System-Analysis-and-Design/blob/master/assets/MakeReservation-1557073113872.svg)
+![MakeReservation-1557073113872](MakeReservation-1557073113872.svg)
 
 **数据建模**
 * Hotel (ID/Key, name, stars, address, brief-introduction, roomIDList)
@@ -26,4 +26,4 @@
 
 飞猪酒店预订，状态建模：
 
-![](https://github.com/gongjxgjx/Software-System-Analysis-and-Design/blob/master/assets/feizhu.svg)
+![feizhu](feizhu.svg)
