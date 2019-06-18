@@ -21,8 +21,8 @@
 * 根据上述流程，给出快递柜系统最终的用例图模型
 
 1. 用正常色彩表示第一个业务流程反映的用例
-![Swimlane1](Swimlane1.svg)
+![usecase1](usecase1.svg)
 2. 用绿色背景表述第二个业务场景添加或修改的用例，以及支持 Actor
-![Swimlane2](Swimlane1.svg)
+![usecase2](usecase2.svg)
 3. 用黄色背景表述第三个业务场景添加或修改的用例，以及支持 Actor
-![Swimlane3](Swimlane1.svg)
+![usecase3](usecase3.svg)
