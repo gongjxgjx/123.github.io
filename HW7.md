@@ -3,6 +3,7 @@
 * 绘制用例图模型（到子用例）
 ![ReserveHotel](ReserveHotel.svg)
 * 给出 make reservation 用例的活动图
+
 ![](https://github.com/gongjxgjx/123.github.io/blob/master/makeReservation.svg)
 ## **2 根据课程练习“投递员使用投递箱给收件人快递包裹”的业务场景**
 * 分别用多泳道图建模三个场景的业务过程
