@@ -20,7 +20,7 @@
 * 根据上述流程，给出快递柜系统最终的用例图模型
 
 1. 用正常色彩表示第一个业务流程反映的用例
-![](https://github.com/gongjxgjx/Software-System-Analysis-and-Design/blob/master/assets/usecase1.svg)
+![Swimlane1](Swimlane1.svg)
 2. 用绿色背景表述第二个业务场景添加或修改的用例，以及支持 Actor
 ![](https://github.com/gongjxgjx/Software-System-Analysis-and-Design/blob/master/assets/usecase2.svg)
 3. 用黄色背景表述第三个业务场景添加或修改的用例，以及支持 Actor
